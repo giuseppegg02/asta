@@ -12,8 +12,8 @@ Database.createAllFiles()
 
 app = Client(
     "my_account",
-    api_id= "",
-    api_hash="")
+    api_id= "1079248",
+    api_hash="7ea7b3d02c881a17e9d1bedb5745455c")
 
 Database.loadEveryAuction(app)
 
